@@ -1,0 +1,37 @@
+{
+    "name": "js-fetch-monster-practice-challenge-nyc-web-012720",
+    "version": "1.0.0",
+    "description": "For this practice code challenge, your objective is to build a frontend for our monsters data. Currently, the index.html page has a script tag to ```js/demo.js``` so that you can see a demo of the finished app. Comment out the script tag to ```js/demo.js``` and uncomment out the script tag to ```js/index.js``` where you will code your solution",
+    "main": "index.js",
+    "dependencies": {
+        "xo": "^0.28.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wags83/js-fetch-monster-practice-challenge-nyc-web-012720.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/wags83/js-fetch-monster-practice-challenge-nyc-web-012720/issues"
+    },
+    "homepage": "https://github.com/wags83/js-fetch-monster-practice-challenge-nyc-web-012720#readme",
+    "xo": {
+        "envs": [
+            "browser"
+        ],
+        "prettier": true,
+        "rules": {
+            "radix": 0,
+            "capitalized-comments": 0
+        }
+    },
+    "prettier": {
+            "semi": false
+    }
+}
